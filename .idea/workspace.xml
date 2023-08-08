@@ -4,7 +4,63 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ce88f52-28e3-4961-9914-6996c59259e8" name="Changes" comment="" />
+    <list default="true" id="6ce88f52-28e3-4961-9914-6996c59259e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/projetodjangosite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filme/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filme/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filme/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filme/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filme/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filme/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filme/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filme/novos_context.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filme/templates/criarconta.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filme/templates/detalhesfilme.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filme/templates/editarperfil.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filme/templates/homefilme.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filme/templates/homepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filme/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filme/templates/logout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filme/templates/pesquisa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filme/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filme/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filme/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filmeflix/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filmeflix/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filmeflix/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filmeflix/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filmeflix/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/thumb_filmes/23_05_15_091225.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/thumb_filmes/A-Morte-do-Demonio-A-Ascensao.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/thumb_filmes/cw5snHBL1Dmig3mhcjhxx7aGxnl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/thumb_filmes/cw5snHBL1Dmig3mhcjhxx7aGxnl_SrW2axo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/thumb_filmes/cw5snHBL1Dmig3mhcjhxx7aGxnl_kw1A8QV.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/thumb_filmes/download_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/thumb_filmes/download_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/thumb_filmes/panico-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/thumb_filmes/panico-6_PTAfyuo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planejamento.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/background_netflix.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/filmeflix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/mobile-0819.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/netflix_kid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/panico-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thumb_filmes/download_2.jpg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,19 +74,24 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2SqPX9PaglgrtpCpsLKTIxQgfyD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Matte/PycharmProjects/projetodjangosite&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Matte/PycharmProjects/projetodjangosite"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
