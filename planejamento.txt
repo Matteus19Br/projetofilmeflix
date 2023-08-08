@@ -1,0 +1,20 @@
+-homopege
+-fazer login e criar conta(usario e autenticacao)
+    -email
+    -usermane
+    -senha
+    -filmes ja visto
+    -editar perfil
+
+-filmes/series
+    -thumb
+    -titulo
+    -descrição
+    -categoria
+    -quantidade de views
+    -data de criação
+    -episodios
+      - videos
+      - titulo
+
+-barra de pesquisa
